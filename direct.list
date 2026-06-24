@@ -1,12 +1,23 @@
 #direct
+
+# Stock
+DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,htsc.com
+DOMAIN-SUFFIX,zhangle.com
+DOMAIN-SUFFIX,cmschina.com
+
+# Emby
 DOMAIN-SUFFIX,lemby.me
 DOMAIN-SUFFIX,886318.xyz
 DOMAIN-SUFFIX,uhdnow.com
 DOMAIN-SUFFIX,bangumi.ca
 
+# Misc
 DOMAIN-SUFFIX,ke.com
 DOMAIN-SUFFIX,mxbc.net
 DOMAIN-SUFFIX,umetrip.com
 DOMAIN-SUFFIX,youzhiyouxing.com
 
+# GiftCard
 DOMAIN-SUFFIX,seagm.com
+

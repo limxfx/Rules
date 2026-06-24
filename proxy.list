@@ -1,12 +1,20 @@
 #proxy
-DOMAIN-SUFFIX,deepseek.com
-DOMAIN-SUFFIX,v2ex.com
 
+# Stock
 DOMAIN-SUFFIX,ibkr.com
 DOMAIN-SUFFIX,interactivebrokers.com
+
+# Apple
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,apple-relay.apple.com
+
+# AI
 DOMAIN-SUFFIX,cursorapi.com
+DOMAIN-SUFFIX,deepseek.com
+
+# Misc
 DOMAIN-SUFFIX,t-mobile.com
 DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,tktn.be
+DOMAIN-SUFFIX,v2ex.com
+
