@@ -11,6 +11,9 @@ DOMAIN-SUFFIX,apple-relay.apple.com
 # AI
 DOMAIN-SUFFIX,cursorapi.com
 DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,kimi.com
+DOMAIN-SUFFIX,moonshot.ai
+DOMAIN-SUFFIX,z.ai
 
 # Misc
 DOMAIN-SUFFIX,t-mobile.com
