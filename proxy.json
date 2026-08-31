@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ibkr.com",
+        "interactivebrokers.com",
+        "apple-relay.cloudflare.com",
+        "apple-relay.apple.com",
+        "cursorapi.com",
+        "deepseek.com",
+        "kimi.com",
+        "moonshot.ai",
+        "z.ai",
+        "t-mobile.com",
+        "brave.com",
+        "tktn.be",
+        "v2ex.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "futunn.com",
+        "htsc.com",
+        "zhangle.com",
+        "cmschina.com",
+        "lemby.me",
+        "886318.xyz",
+        "uhdnow.com",
+        "bangumi.ca",
+        "ke.com",
+        "mxbc.net",
+        "umetrip.com",
+        "youzhiyouxing.com",
+        "seagm.com"
+      ]
+    }
+  ]
+}
